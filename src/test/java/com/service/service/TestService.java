@@ -12,7 +12,7 @@ public class TestService {
 
 
     @Test
-    public void testsayHi(){
+    public void helloworld(){
 
         String expactReturnValue = "hi, Tom! welcome to ServiceStage";
             
