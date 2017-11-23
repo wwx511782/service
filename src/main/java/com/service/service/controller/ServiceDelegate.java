@@ -9,7 +9,7 @@ public class ServiceDelegate implements Service {
     public String helloworld(String name){
 
         // Do Some Magic Here!
-        return ''
+        return "";
         //"hi, " +name + "!Welcom to ServiceStage";
     }
 }
