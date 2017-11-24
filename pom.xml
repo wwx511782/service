@@ -38,11 +38,6 @@
         </dependency>
 
         <dependency>
-            <groupId>io.servicecomb</groupId>
-            <artifactId>provider-pojo</artifactId>
-        </dependency>
-
-        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <scope>test</scope>
@@ -112,4 +107,3 @@
         </plugins>
     </build>
 </project>
-
